@@ -32,16 +32,3 @@ I enjoy working on **software development, prototyping, and business strategy**.
 ![EasyEDA](https://img.shields.io/badge/-EasyEDA-4A90E2?logo=easyeda&logoColor=white&style=flat)
 ![Fusion 360](https://img.shields.io/badge/-Fusion360-FAA61A?logo=autodesk&logoColor=white&style=flat)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?logo=solidworks&logoColor=white&style=flat)
-
-### 📊 **GitHub Stats**  
-
-#### 🏆 **Profile Overview**  
-![Julius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliusnoelbanayo&show_icons=true&theme=radical&count_private=true)
-
-#### 🚀 **Most Used Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliusnoelbanayo&layout=compact&theme=radical)
-
-#### ⚡ **Streak Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juliusnoelbanayo&theme=radical)
-
----
