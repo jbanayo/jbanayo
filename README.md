@@ -1,6 +1,5 @@
-I enjoy working on **software development, prototyping, and business strategy**.
+I enjoy working on **product development (hardware/ software development and prototyping)**.
 
 ### 🚀 About Me  
-- 💻 **Full Stack Developer** | **AI & Robotics Enthusiast**  
-- 🛠 **Hardware & Software Prototyping** | **IoT & Automation**  
+- 💻 **Robotics** | **Full Stack** | **Emerging Technology Enthusiast**  
 - 🌍 Currently in the **Philippines** 
